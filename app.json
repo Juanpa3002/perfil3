@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "perfi3",
+    "slug": "perfi3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Jp.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/BALON.PNG",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/BALON2.PNG",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/BALON3.PNG"
+    }
+  }
+}
